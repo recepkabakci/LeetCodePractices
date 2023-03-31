@@ -15,7 +15,6 @@ public class IsSubSequence {
             if(j==s.length())
                 return true;
 
-
         }
         return false;
     }
