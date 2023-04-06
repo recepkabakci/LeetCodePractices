@@ -13,9 +13,6 @@ public class UnpairedElement {
                 unpairedNUmber=num;
             }
         }
-
-
-
         return unpairedNUmber;
     }
 
