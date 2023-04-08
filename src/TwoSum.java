@@ -6,7 +6,6 @@ public class TwoSum {
                     if((nums[i]+nums[j])==target & i!=j){
                         result[0]=i;
                         result[1]=j;
-
                     }
                 }
             }
